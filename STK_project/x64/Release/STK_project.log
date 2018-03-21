@@ -1,0 +1,30 @@
+﻿  Board.cpp
+  Controller.cpp
+Controller.cpp(81): warning C4305: 'argument': truncation from 'double' to 'float'
+  Dwarfs.cpp
+  Fire.cpp
+  GameObject.cpp
+  Gate.cpp
+  GateKey.cpp
+  Giant.cpp
+  Information.cpp
+Information.cpp(84): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  King.cpp
+  Mage.cpp
+  main.cpp
+  Menu.cpp
+Menu.cpp(37): warning C4305: '+=': truncation from 'double' to 'float'
+Menu.cpp(47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  MoveObj.cpp
+  PlayersObj.cpp
+  StaticObj.cpp
+  Thief.cpp
+  Throne.cpp
+  Utilities.cpp
+  Wall.cpp
+     Creating library C:\Users\Zvika Berger\Downloads\Compressed\Project_ZviBerger_MosheRakow_2\STK_project\x64\Release\STK_project.lib and object C:\Users\Zvika Berger\Downloads\Compressed\Project_ZviBerger_MosheRakow_2\STK_project\x64\Release\STK_project.exp
+  Generating code
+  All 1055 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  STK_project.vcxproj -> C:\Users\Zvika Berger\Downloads\Compressed\Project_ZviBerger_MosheRakow_2\STK_project\x64\Release\STK_project.exe
+  STK_project.vcxproj -> C:\Users\Zvika Berger\Downloads\Compressed\Project_ZviBerger_MosheRakow_2\STK_project\x64\Release\STK_project.pdb (Full PDB)
